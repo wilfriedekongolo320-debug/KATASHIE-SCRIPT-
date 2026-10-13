@@ -1,7 +1,7 @@
 #!/bin/bash
 
 MYIP=$(curl -sS ipv4.icanhazip.com)
-readonly SERVER_HOST="https://github.com/wilfriedekongolo320-debug/Clone-THE_S-TUNNEL-44.git"
+readonly SERVER_HOST="https://github.com/wilfriedekongolo320-debug/KATASHIE-SCRIPT-.git"
 clear
 
 # ==============================================================================
